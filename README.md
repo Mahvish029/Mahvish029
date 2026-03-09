@@ -1,0 +1,12 @@
+
+# Hi, I'm Mahvish 👋
+Associate Quality Engineer  
+Learning Git & GitHub!
+
+## 🌱 Currently Learning
+- Git & GitHub  
+- QA best practices  
+- Version control  
+
+## 📫 How to reach me
+- GitHub: @Mahvish029
