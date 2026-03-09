@@ -10,3 +10,7 @@ Learning Git & GitHub!
 
 ## 📫 How to reach me
 - GitHub: @Mahvish029
+  
+## 🧪 QA Interests
+I am exploring automation testing and improving quality engineering skills.
+
