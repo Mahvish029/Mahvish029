@@ -14,3 +14,9 @@ Learning Git & GitHub!
 ## 🧪 QA Interests
 I am exploring automation testing and improving quality engineering skills.
 
+
+## 🔧 Tools I Use
+- GitHub
+- Postman
+- VS Code
+- Jira
